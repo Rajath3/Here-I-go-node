@@ -1,0 +1,26 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "working with",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dns": "^0.2.2",
+    "promise": "^8.0.3",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajath3/LearnNodejs.git"
+  },
+  "author": "Rajath H R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajath3/LearnNodejs/issues"
+  },
+  "homepage": "https://github.com/Rajath3/LearnNodejs#readme"
+}
