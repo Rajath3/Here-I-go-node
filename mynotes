@@ -1,0 +1,60 @@
+Difference between angular and react
+
+A: uses actual DOM directly
+R: uses virtual DOM
+
+A: It is a framework in itself
+R: It is Javascript Library
+
+A: It is difficult to learn and optimize, affecting deliverables
+R: Much easier in learning, coder gets frustrated if used with redux
+
+A: Mostly used in industry because of robust, faster
+R: Used in simple applications
+
+
+Javascript ECMAScript 6 advantages
+
+Came into picture in 2015
+
+1. Block scoped
+{}
+
+2. Introduced arrow
+=>
+
+3. Promise oriented
+
+4. Classes
+
+5. Modules
+import export
+
+
+Let, var and const
+
+let and const are es6 deliverables
+
+var is older
+
+var has functional scope 
+
+let and const are of blocked scope
+
+var a = 0
+let b = 1
+const c = 2
+
+
+
+const func = () => {
+  var  a = 1
+  let  b = 2
+  const c = 1
+}
+func()
+
+//output a = 1 b = 1 c = 2
+
+
+
