@@ -6,11 +6,14 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "dns": "^0.2.2",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
     "promise": "^8.0.3",
     "request": "^2.88.0"
   },
   "devDependencies": {},
   "scripts": {
+    "start": "nodemon middleware.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
